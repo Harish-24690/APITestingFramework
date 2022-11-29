@@ -1,6 +1,6 @@
 package createCustomerAPIs;
 
-import static io.restassured.RestAssured.given;
+import static io.restassured.RestAssured.*;
 
 import java.util.Hashtable;
 
